@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+env/
+venv/
+
+# Otros
+.idea/
+.vscode/
+.DS_Store
